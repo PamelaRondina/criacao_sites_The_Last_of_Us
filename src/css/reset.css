@@ -1,0 +1,17 @@
+* {
+    /* background-color: black; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden - retirar os scroll; */
+}
+
+ul {
+    list-style: none;
+
+}
+
+.cabecalho .logo {
+    text-decoration: none;
+}
+
