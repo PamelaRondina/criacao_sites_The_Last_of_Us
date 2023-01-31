@@ -13,7 +13,7 @@ body {
 }
 
 .cabecalho .logo {
-    width: 300px;        
+    width: 200px;        
 }
 
 .cabecalho .menu {    
@@ -50,7 +50,7 @@ body {
 
 .container .personagens {
     /* background-color: aqua; */
-    max-width: 400px;
+    max-width: 250px;
     /* margin: -300px;     */
 }
 
@@ -64,25 +64,25 @@ body {
 
 .container .imagem-titulo {
     /* background-color: #f03a17; */
-    height: 100%; 
-    max-width: 800px;
-    margin: 10px 50px 30px 15px;
+    /* height: 100%;  */
+    max-width: 550px;
+    margin: 10px 10px 10px 10px;
 }
 
 .container .descricao {
     /* background-color: aqua; */
     color: #d4d8d7;
-    width: 90%;
-    font-size: 35px;
+    width: 85%;
+    font-size: 30px;
     /* margin: 30px 0; */
-    margin: 0px 0px 30px 50px;
+    margin: 0px 0px 0px 0px;
 }
 
 .container .botao-trailer {
     background-color: #320f69;;
     color: #b3adad;
-    padding: 35px;
-    font-size: 25px;
+    padding: 15px;
+    font-size: 18px;
     font-weight: bold;
     cursor: pointer;
     border: #273514;
